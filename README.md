@@ -1,6 +1,6 @@
 # Data & analysis
 
-## Vogels et al., 2019. 'Unsolved Mystery: Arbovirus co-infection and co-transmission: a neglected public health concern?'. PLOS Biology
+### Vogels et al., 2019. 'Unsolved Mystery: Arbovirus co-infection and co-transmission: a neglected public health concern?'. PLOS Biology
 
 ### Overlapping Zika, dengue, and chikungunya virus outbreaks in the Americas (Figure 1)
 
@@ -27,7 +27,7 @@ File:
 * Mosquito_co-transmission.xlsx
 
 ### Model-predicted prevalence over time of two sequentially invading arboviruses (Box)
-We used a deterministic SIR-SI model to explore possible impacts that co-transmission from mosquitoes to humans may have on the overall dynamics of simultaneous arbovirus outbreaks. This model incorporates two viruses that have identical transmission parameters and recovery rates (for humans). The transmission parameters of the viruses are identical, and virus Y invades one month after virus X in a population of 1,000,000. Co-transmission from human to mosquito is fixed such that 60% of infectious bites on a co-infected human lead to co-transmission. Co-transmission from mosquito to human is varied between 0 and 100%. For further details see 'S2 File in the associated article (Vogels et al., 2019).
+We used a deterministic SIR-SI model to explore possible impacts that co-transmission from mosquitoes to humans may have on the overall dynamics of simultaneous arbovirus outbreaks. This model incorporates two viruses that have identical transmission parameters and recovery rates (for humans). The transmission parameters of the viruses are identical, and virus Y invades one month after virus X in a population of 1,000,000. Co-transmission from human to mosquito is fixed such that 60% of infectious bites on a co-infected human lead to co-transmission. Co-transmission from mosquito to human is varied between 0 and 100%. For further details see 'S2 File' in the associated article (Vogels et al., 2019).
 
 The model does not require any data inputs to run, but requires one input (Mosquito_To_Human.png) to generate the first figure, which should be in the current working folder. Model parameters can be varied near the top of the file. 	
 
@@ -38,6 +38,6 @@ Files:
 
 ---
 **Grubaugh Lab**  
-Yale School of Public Health 
+Yale School of Public Health
 New Haven, CT, USA  
 [grubaughlab@gmail.com](mailto:grubaughlab@gmail.com)
