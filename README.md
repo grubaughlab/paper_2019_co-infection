@@ -6,7 +6,7 @@
 
 ### Overlapping Zika, dengue, and chikungunya virus outbreaks in the Americas (Figure 1)
 
-Data was obtained from the Pan-American Health Organization. Dengue and Chikungunya cases were extracted from the cummulative case reports, and thus may not accurately reflect the true number of reported cases per month. Zika cases were extracted from bar graphs showing cases per week. See [this blog post](http://andersen-lab.com/paho-zika-cases/) for info on how monthly Zika cases were extracted.
+Data were obtained from the Pan-American Health Organization. Dengue and Chikungunya cases were extracted from the cumulative case reports, and thus may not accurately reflect the true number of reported cases per month. Zika cases were extracted from bar graphs showing cases per week. See [this blog post](http://andersen-lab.com/paho-zika-cases/) for info on how monthly Zika cases were extracted.
 
 Files:
 * CHIKV_2016-2017.xlsx
