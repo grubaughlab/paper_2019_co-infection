@@ -2,6 +2,8 @@
 
 ### Vogels et al., 2019. 'Unsolved Mystery: Arbovirus co-infection and co-transmission: a neglected public health concern?'. PLOS Biology
 
+---
+
 ### Overlapping Zika, dengue, and chikungunya virus outbreaks in the Americas (Figure 1)
 
 Data was obtained from the Pan-American Health Organization. Dengue and Chikungunya cases were extracted from the cummulative case reports, and thus may not accurately reflect the true number of reported cases per month. Zika cases were extracted from bar graphs showing cases per week. See [this blog post](http://andersen-lab.com/paho-zika-cases/) for info on how monthly Zika cases were extracted.
@@ -39,5 +41,4 @@ Files:
 ---
 **Grubaugh Lab**  
 Yale School of Public Health
-New Haven, CT, USA  
 [grubaughlab@gmail.com](mailto:grubaughlab@gmail.com)
