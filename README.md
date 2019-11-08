@@ -1,6 +1,6 @@
 # Data & analysis
 
-[Vogels et al., 2019. 'Unsolved Mystery: Arbovirus co-infection and co-transmission: a neglected public health concern?'. PLOS Biology] (https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.3000130)
+[Vogels et al., 2019. 'Unsolved Mystery: Arbovirus co-infection and co-transmission: a neglected public health concern?'. PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.3000130)
 
 ---
 
